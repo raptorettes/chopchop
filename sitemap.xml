@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://chopchop.raptor.ink/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://chopchop.raptor.ink/</loc>
+</url>
+<url>
+<loc>https://chopchop.raptor.ink/combo-pack.html</loc>
+<lastmod>2023-02-03T00:58:52+02:00</lastmod>
+</url>
+<url>
+<loc>https://chopchop.raptor.ink/fish-cutting-board.html</loc>
+<lastmod>2023-02-03T00:59:03+02:00</lastmod>
+</url>
+<url>
+<loc>https://chopchop.raptor.ink/meat-chopping-board.html</loc>
+<lastmod>2023-02-03T00:59:13+02:00</lastmod>
+</url>
+<url>
+<loc>https://chopchop.raptor.ink/veg-board.html</loc>
+<lastmod>2023-02-03T00:59:09+02:00</lastmod>
+</url>
+</urlset>
